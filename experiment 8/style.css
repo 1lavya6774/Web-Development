@@ -4,7 +4,7 @@ body {
     margin: 20px;
 }
 
-/* Container styling */
+
 .container {
     border: 2px solid black;
     display: flex;
@@ -16,7 +16,6 @@ body {
     border-radius: 12px;
 }
 
-/* Card styling */
 .card {
     background-color: white;
     width: 280px;
