@@ -8,12 +8,13 @@
 
 /* Navbar Styling */
 .navbar {
-  display: flex;
+  display: block;
   justify-content: space-between;
   align-items: center;
   background-color: #222;
   color: white;
   padding: 15px 20px;
+
 }
 
 .logo {
